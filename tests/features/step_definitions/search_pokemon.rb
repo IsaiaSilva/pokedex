@@ -68,4 +68,3 @@ Then("a message stating that no Pokémon matches your search is displayed") do
     puts msg
     expect(msg.text).to eql 'No Pokémon Matched Your Search!'
 end
-

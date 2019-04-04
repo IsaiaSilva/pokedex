@@ -25,5 +25,3 @@ When I accept cokkie
 When in the search box I type a pokemon that does not exist as "IsaiasPokemon"
 And I click the search button
 Then a message stating that no Pokémon matches your search is displayed
-
-

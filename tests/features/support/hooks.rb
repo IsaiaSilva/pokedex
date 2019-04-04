@@ -16,4 +16,3 @@ After do |scenario|
         take_screenshot(scenario_name.downcase!, 'passou')
     end
 end
-
